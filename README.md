@@ -1,6 +1,6 @@
 # 👨‍💻 Adolfo Layme Bonifacio - Estudiante de Ingeniería en Sistemas
 
-<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.dev/AdolfoLayme/AdolfoLayme/CatCode.gif">
+<img align="right" top="500" height="270" width="400" alt="GIF" src="CatCode.gif">
 
 
 ¡Hola! Soy **Adolfo**, un estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software y la tecnología. Este repositorio sirve como mi CV interactivo, donde puedes explorar alguno de mis proyectos, habilidades, y experiencia en áreas como **Frontend**, **Bases de Datos**, **C++**, y **entre otros**.
