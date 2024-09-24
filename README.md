@@ -1,20 +1,43 @@
-# 👨‍💻 Adolfo Layme Bonifacio - Estudiante de Ingeniería en Sistemas
 
-<img align="right" top="500" height="270" width="400" alt="GIF" src="CatCode.gif">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=header"/>
+
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B101F1&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name's+Adolfo;)](https://git.io/typing-svg) -->
 
 
-¡Hola! Soy **Adolfo**, un estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software y la tecnología. Este repositorio sirve como mi CV interactivo, donde puedes explorar alguno de mis proyectos, habilidades, y experiencia en áreas como **Frontend**, **Bases de Datos**, **C++**, y **entre otros**.
+## 👨‍💻 Adolfo Layme Bonifacio - Estudiante de Ingeniería en Sistemas
+
+<!-- <img align="right" top="500" height="270" width="400" alt="GIF" src="CatCode.gif">} -->
+
+<img src="CatCode.gif" min-width="400px" max-width="400px" width="400px " min-height="270" max-heigt="270" align="right" alt="Computador">
+
+<br>
+
+¡Hola! Soy **Adolfo**, estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software y la tecnología.
+
+Este repositorio sirve como mi CV interactivo, donde puedes explorar algunos de mis proyectos, habilidades, experiencias en áreas como **Frontend**, **Bases de Datos**,
+ **Lenguages de Programación**. 
+
+  Actualmente, me encuentro en proceso de aprendizaje en estas tecnologías, lo que me motiva a seguir creciendo y mejorando en el campo de la ingeniería en sistemas y la tecnología.
+
+<br>
+
+## Mis Redes
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adolfo_lb1/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/adolfol.lb/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31sy4mxhqq6wllpsvwcmup7mlgum?si=74dd6fb027ee4708)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Adolfo_Bonif)
+<br>
 
 ## 🎯 Sobre Mí
 
-Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta explorar nuevas tecnologías orientadas al desarrollo web, ya sea de front o backend, asi como aprender constantemente sobre el mundo del desarrollo de software y seguir mejorando mis habilidades.
+Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta explorar nuevas tecnologías orientadas al desarrollo web, ya sea de front o backend y lenguages de programación, asi como aprender constantemente sobre el mundo del desarrollo de software y seguir mejorando mis habilidades.
 
 - 🎓 **Carrera**: Ingeniería en Sistemas
 - 🖥 **Intereses**: Desarrollo Web, Backend, Arquitecturas de Software y otras tecnologias.
 - 🌱 **Aprendiendo**: HTML, CSS, Java, C++, python, Base de Datos.
 - 📫 **Contáctame**: [Correo]()
-- ⚡ **Dato curioso**: ¡Me encanta la programacion y buscar soluciones innovadoras a problemas complejos!
-
+- ⚡ **Dato curioso**: La música es mi compañera de trabajo; me ayuda a crear un ambiente productivo y creativo.
 ## 🛠 Tecnologia & Herramientas 
 
 ### Lenguajes💻
@@ -46,14 +69,14 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 
 ## 📚 Educación
 
-- **Ingenieria en Sistemas** [Universidad Nacional José Maria Arguedas](https://unajma.edu.pe)
+- **Ingenieria en Sistemas** [Universidad Nacional José Maria Arguedas](http://www.unajma.edu.pe/)
 - **Cursos y Certificaciones**: 
-  - Curso Programacion Frontend [Alura Latam](https://app.aluracursos.com/user/Familiajoserene/fullCertificate/a3c142864461f440423656cc397e8632)
+  - Curso Programacion Frontend [Alura Latam](https://www.aluracursos.com/)
 
 
 ## 🌱 Objetivos
 
-- Mejorar mis habilidades en **Backend** y **Frontend**.
+- Mejorar mis habilidades en **Backend** y **Frontend** y en otras areas de la cerrera.
 - Contribuir a proyectos de código abierto.
 - Aprender más sobre **arquitectura de software**.
 - Aprender sobre **redes computacinales**.
@@ -65,4 +88,4 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 - [Correo]()
 <br>
 
-Gracias por visitar mi perfil. ¡Espero que podamos colaborar pronto! 👋🤍
+"Gracias por visitar mi perfil. ¡Espero que te haya encantado! Si tienes alguna pregunta o quieres conectar, no dudes en contactarme. 👋🤍"
