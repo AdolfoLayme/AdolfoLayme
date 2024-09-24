@@ -3,14 +3,13 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B101F1&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name's+Adolfo;)](https://git.io/typing-svg) -->
 
-
-## 👨‍💻 Adolfo Layme Bonifacio - Estudiante de Ingeniería en Sistemas
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Adolfo+-+Estudiante+de+Ingenier%C3%ADa+en+Sistemas)](https://git.io/typing-svg)
+<!--## 👨‍💻 Adolfo Layme Bonifacio - Estudiante de Ingeniería en Sistemas-->
 
 <!-- <img align="right" top="500" height="270" width="400" alt="GIF" src="CatCode.gif">} -->
 
-<img src="CatCode.gif" min-width="400px" max-width="400px" width="400px " min-height="270" max-heigt="270" align="right" alt="Computador">
+<img src="CatCode.gif" min-width="400px" max-width="400px" width="400px " align="right" alt="CatCode">
 
-<br>
 
 ¡Hola! Soy **Adolfo**, estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software y la tecnología.
 
