@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Adolfo+-+Estudiante+de+Ingenier%C3%ADa+en+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1&width=800&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Adolfo+-+Estudiante+de+Ingenier%C3%ADa+en+Sistemas)](https://git.io/typing-svg)
 
 <img align="right" top="500" height="270" width="400" alt="GIF" src="CatCode.gif">
 
@@ -23,7 +23,7 @@ Actualmente, me encuentro en proceso de aprendizaje en estas tecnologías, lo qu
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adolfo_lb1/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/adolfol.lb/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31sy4mxhqq6wllpsvwcmup7mlgum?si=74dd6fb027ee4708)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Adolfo_Bonif)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]()
 <br>
 
 ## 🎯 Sobre Mí
@@ -43,8 +43,8 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<!--<![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)> -->
 
 <br/>
 
