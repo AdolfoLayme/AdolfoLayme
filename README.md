@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1&width=800&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Adolfo+-+Estudiante+de+Ingenier%C3%ADa+en+Sistemas)](https://git.io/typing-svg)
 
-<img align="right" top="500" height="270" width="400" alt="GIF" src="CatCode.gif">
+<img align="right" height="270" width="400" alt="GIF" src="CatCode.gif">
 
 <!--<img src="CatCode.gif" min-width="200px" max-width="200px" width="200px " align="right" alt="CatCode"> -->
 
@@ -12,7 +12,7 @@
 ¡Hola! Soy **Adolfo**, estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software y la tecnología.
 
 Este repositorio sirve como mi CV interactivo, donde puedes explorar algunos de mis proyectos, habilidades, experiencias en áreas como **Frontend**, **Bases de Datos**,
-**Lenguages de Programación**. 
+**Lenguajes de Programación**. 
 
 Actualmente, me encuentro en proceso de aprendizaje en estas tecnologías, lo que me motiva a seguir creciendo y mejorando en el campo de la ingeniería en sistemas y la tecnología.
 
@@ -23,19 +23,19 @@ Actualmente, me encuentro en proceso de aprendizaje en estas tecnologías, lo qu
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adolfo_lb1/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/adolfol.lb/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31sy4mxhqq6wllpsvwcmup7mlgum?si=74dd6fb027ee4708)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]()
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]
 <br>
 
 ## 🎯 Sobre Mí
 
-Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta explorar nuevas tecnologías orientadas al desarrollo web, ya sea de front o backend y lenguages de programación, asi como aprender constantemente sobre el mundo del desarrollo de software y seguir mejorando mis habilidades.
+Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta explorar nuevas tecnologías orientadas al desarrollo web, ya sea de front o backend y lenguajes de programación, así como aprender constantemente sobre el mundo del desarrollo de software y seguir mejorando mis habilidades.
 
 - 🎓 **Carrera**: Ingeniería en Sistemas
-- 🖥 **Intereses**: Desarrollo Web, Backend, Arquitecturas de Software y otras tecnologias.
-- 🌱 **Aprendiendo**: HTML, CSS, Java, C++, python, Base de Datos.
+- 🖥 **Intereses**: Desarrollo Web, Backend, Arquitecturas de Software y otras tecnologías.
+- 🌱 **Aprendiendo**: HTML, CSS, C++, Python, Base de Datos.
 - 📫 **Contáctame**: [Correo]()
 - ⚡ **Dato curioso**: La música es mi compañera de trabajo; me ayuda a crear un ambiente productivo y creativo.
-## 🛠 Tecnologia & Herramientas 
+## 🛠 Tecnología & Herramientas 
 
 ### Lenguajes💻
 <br>
@@ -66,17 +66,17 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 
 ## 📚 Educación
 
-- **Ingenieria en Sistemas** [Universidad Nacional José Maria Arguedas](http://www.unajma.edu.pe/)
+- **Ingeniería en Sistemas** [Universidad Nacional José María Arguedas](http://www.unajma.edu.pe/)
 - **Cursos y Certificaciones**: 
-  - Curso Programacion Frontend [Alura Latam](https://www.aluracursos.com/)
+  - Curso Programación Frontend [Alura Latam](https://www.aluracursos.com/)
 
 
 ## 🌱 Objetivos
 
-- Mejorar mis habilidades en **Backend** y **Frontend** y en otras areas de la cerrera.
+- Mejorar mis habilidades en **Backend** y **Frontend** y en otras áreas de la carrera.
 - Contribuir a proyectos de código abierto.
 - Aprender más sobre **arquitectura de software**.
-- Aprender sobre **redes computacinales**.
+- Aprender sobre **redes computacionales**.
 
 ## 🔗 Encuéntrame en:
 
